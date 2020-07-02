@@ -2,11 +2,6 @@ body {
   background-color: #eee2dc;
 }
 
-img {
-  width: 25%;
-  height: 25%;
-}
-
 .center {
   display: block;
   margin-left: auto;
